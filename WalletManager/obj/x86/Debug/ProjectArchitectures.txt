@@ -1,0 +1,1 @@
+c:\users\vincenzo\documents\visual studio 2015\Projects\WalletManager\WalletManager\WalletManager.csproj;x86
